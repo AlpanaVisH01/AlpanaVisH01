@@ -1,6 +1,5 @@
 Hello Folks 👩
 
-
 👩🏻‍💻Name: "ALPANA VISHWAKARMA"
 📚Education: "BSC IT" 
 🏡Location: "Jamshedpur, Jharkhand, India"
